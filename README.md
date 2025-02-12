@@ -1,6 +1,6 @@
-# Hackintosh, Gigabyte Z390 Designare, Intel Core i9 9900K, AMD Radeon RX 6900 XT
+# Hackintosh, Acer Nitro 5, Intel Core i7 9750H
 
-![Overview](https://github.com/user-attachments/assets/4a211634-80fc-4799-b124-5a06443374b8)
+![Overview](LinkImagem)
 
 # Basic Information
 
@@ -8,23 +8,18 @@
 <br>
 **Current OpenCore**: 1.0.3
 <br>
-**Release date**: 31/01/2025
+**Release date**: 11/02/2025
 
 # Hackintosh Specifications
 |Item|Description|
 |-|:-------:|
-|Mobo|Gigabyte Z390 Designare|
-|CPU|Intel Core i9 9900K|
-|Memory|4x16Gb DDR4 2666Mhz [64Gb]|
-|dGPU|AMD Radeon RX 6900 XT|
+|Mobo|NITRO 5 515-54|
+|CPU|Intel Core i7 9750H|
+|Memory|2x8Gb DDR4 2666Mhz [16Gb]|
 |Audio|Realtek ALC1220|
-|Ethernet|Intel Ethernet I219-V|
-|Wireless/BT|Fenvi BCM94360CS 2 Antenas|
+|Wireless/BT|Fenvi|
 |Storage|Samsung SSD 970 EVO 1TB|
 |Storage|KINGSTON SNV2S4000G|
-|Storage|S1200ODmoUl-IcK104|
-|Storage|Samsung SSD 970 EVO 500GB|
-|Storage|ST2000DM008-2FR102|
 
 ### Working features
 - All features
